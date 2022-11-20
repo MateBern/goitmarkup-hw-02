@@ -1,0 +1,8 @@
+:root {
+    --primary-color: #2196f3;
+}
+body {
+    background-color: var(--primary-color);
+}
+.nav-list a {
+}
